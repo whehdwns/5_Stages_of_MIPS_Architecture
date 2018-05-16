@@ -1,0 +1,4 @@
+How to run Project 1
+
+gcc computer.h computer.c sim.c -o sim
+./sim sample.dump
