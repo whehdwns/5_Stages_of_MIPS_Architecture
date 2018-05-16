@@ -1,0 +1,4 @@
+First we made sure that the values were being stored properly, 
+we try to match our expected output with the sample output. 
+We proceeded down the list of test cases such as making sure UpdatePc was 
+incrementing correctly. Once that worked, we made sure the address saved was stored correctly.
